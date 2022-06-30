@@ -1,0 +1,9 @@
+# sobre mim
+- 👋 olá meu nome é @albuquerquekarine01
+-:+1: meu email de contato é albuquerquekarine01@escola.pr.gov.br
+- 👀 eu estou interessado em aprender a programa novas linguagens
+- 
+- - 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
